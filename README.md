@@ -1,16 +1,12 @@
-👋 Hi, I’m @IncongruousDev
+I’m @IncongruousDev
 
-👀 I’m interested in crazy and weird back-end dev and projects.
+Interested in weird projects and stuff.
 
-🌱 I’m currently learning how to not spend hours on stupid projects.
+How to reach me : 
+   - Email : w.algoonwork@gmail.com
+   - Twitter : @rthurPrim
 
-💞️ I’m jsut looking to collaborate on Poker IA Algorithms, specially on Texas Hold'Em.
-
-📫 How to reach me : 
-      - Email : w.AlgoOnWork@gmail.com (do not judge)
-      - Twitter : @rthurPrim
-
-PS :  If you have noticed, i'm here to exchange ideas and words so don't hesitated to communicate.
+I'm here to exchange ideas and words so don't hesitated to communicate.
 
 <!---
 IncongruousDev/IncongruousDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
