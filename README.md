@@ -4,7 +4,6 @@ Interested in weird projects and stuff.
 
 How to reach me : 
    - Email : w.algoonwork@gmail.com
-   - Twitter : @rthurPrim
 
 I'm here to exchange ideas and words so don't hesitated to communicate.
 
